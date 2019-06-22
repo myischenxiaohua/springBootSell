@@ -26,7 +26,7 @@ mybatis:
   type-aliases-package: cn.cxh.sell.enttry #指定实体包
 pagehelper:
   helperDialect:
-  helper-dialect: mysql #指定数据库
+  helper-dialect: mysql #指定数据库mysql
 #  params: count=countSql
   reasonable: false
   support-methods-arguments: true
