@@ -31,7 +31,7 @@ pagehelper:
   reasonable: false
   support-methods-arguments: true
 #mapper:
-#  identity: mysql
+#  identity: mysql 数据库
 
 project-url:
   wechatMpAuthorize: http://zmm.cqhuaye.cn
