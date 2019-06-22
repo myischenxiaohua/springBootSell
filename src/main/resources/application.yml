@@ -11,7 +11,7 @@ spring:
    cache: false
    mode: LEGACYHTML5
  mvc:
-   static-path-pattern: /wechat/** #静态资源123
+   static-path-pattern: /wechat/** #静态资源
  resources:
    static-locations: classpath:/static/ #指定静态资源目录  默认static
  datasource:
